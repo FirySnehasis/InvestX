@@ -5,3 +5,11 @@ In this assignment I have put the codes for various technical indicators used in
 In this we have predicted the stock prices by an LTSM model and trained it by using train.csv file and have predicted the prices of the stocks and then we have calculated the efficiency of the model using **Root Mean Square Analysis**.
 # Assignment 3
 In this we have predicted the stock prices by using an LTSM model along with various technical indiactors and then trained it by using yfinance data and have predicted the prices of the stocks and then we have calculated the efficiency of the model using **Root Mean Square Analysis**.
+
+# Authors
+
+- [Snehasis Satapathy](https://www.github.com/firysnehasis)
+
+
+# 🚀 About Me
+I'm currently a first year Electrical Engineering student at Indian Institute Of Technology Kanpur(IIT Kanpur)
