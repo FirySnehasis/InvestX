@@ -14,4 +14,4 @@ In this I have made a webscrapper using selenium and python which help us to scr
 
 
 # 🚀 About Me
-I'm currently a first year Electrical Engineering student at Indian Institute Of Technology Kanpur(IIT Kanpur)
+I'm currently a second year Electrical Engineering student at Indian Institute Of Technology Kanpur(IIT Kanpur)
